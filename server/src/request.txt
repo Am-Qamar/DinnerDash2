@@ -1,0 +1,23 @@
+craete user 
+{
+    "name":"Qamar",
+    "email":"qamar@gmail.com",
+    "dispName":"Qamar",
+     "password":"qamar12345!"
+}
+
+
+itemID:64fb592fda9a1ea3918ec5cf   , 64fec426ac71671b6551dead
+userID: 64fb4c220a880a17e57d9d05
+CATEGORY_Item: 64fec7c0ac71671b6551deb5
+create order: 
+{
+  userId: '64fb4c220a880a17e57d9d05', 
+  itemIds: [64fb592fda9a1ea3918ec5cf   , 64fec426ac71671b6551dead]
+  quantity: '5',
+  sublineTotal: '100',
+  total: '120',
+  status: 'ordered',
+  subTime: '25-09-2022',
+  actTime: null,
+}
